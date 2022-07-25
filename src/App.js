@@ -1,5 +1,5 @@
 import './App.css';
-import IsEthAvailable from './Components/checkingEthWallet.js';
+import IsEthAvailable from './checkingEthWallet.js';
 
 function App() {
   return (
